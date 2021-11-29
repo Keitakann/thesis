@@ -1,2 +1,2 @@
-# Mitathesis
-repository for mita-thesis.
+# Research
+repository for research-question.
